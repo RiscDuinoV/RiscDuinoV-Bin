@@ -14,8 +14,8 @@
                   "category": "FPGA",
                   "url":"https://github.com/RiscDuinoV/Software/archive/master.zip",
                   "archiveFileName": "Software-master.zip",
-                  "checksum": "SHA-256:0ca0caa4aa11b12c2c2a51265f6b2cf21ee4a802251819309b4bd4d1b1cc9599",
-                  "size": "62258",
+                  "checksum": "SHA-256:a220ad1aeca10d158f355990c7cfc4b043e80290a8d6d427931f61d9f893b34f",
+                  "size": "62466",
                   "boards":
                   [
                       {
