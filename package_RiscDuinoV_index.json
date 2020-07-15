@@ -70,7 +70,7 @@
                             "url": "https://github.com/RiscDuinoV/RiscDuinoV-Bin/raw/master/Programmer-win32.zip",
                             "archiveFileName": "Programmer-win32.zip",
                             "checksum":"SHA-256:622e77a2c6bab9ac164e6c87efe527dd9678b161b2ccf6a49dfa92798c87c202",
-                            "size":"36233"
+                            "size":"36304"
                         },
                         {
                             "host":"x86_64-apple-darwin"
@@ -80,7 +80,7 @@
                             "url": "https://github.com/RiscDuinoV/RiscDuinoV-Bin/raw/master/Programmer-linux.zip",
                             "archiveFileName": "Programmer-linux.zip",
                             "checksum":"SHA-256:c10b6edc9bfa3551c4891e1ea70e2867848a91aa14950e2539cffafc5b6a4d5e",
-                            "size":"17682"
+                            "size":"17838"
                         }
                     ]
                 }
